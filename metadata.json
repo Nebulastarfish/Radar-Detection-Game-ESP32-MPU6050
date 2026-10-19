@@ -1,0 +1,6 @@
+{
+  "name": "AeroRadar IMU 3D - ESP32 Earth-Axis Tactical Simulator",
+  "description": "Interactive 3D tactical radar and flight game paired with real-time ESP32 & MPU6050 IMU Earth-axis physics, live OLED hardware twin, and complete Wokwi engineering blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
